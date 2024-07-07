@@ -1,0 +1,7 @@
+name,socre,score
+stanley,- 2, 0
+yu, -100, 100
+yusuf, 0000, 2-2
+stanley,- 5, 5
+yu, j  fjf s, kwjdkwdm
+yusuf,j, -0

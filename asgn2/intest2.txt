@@ -1,0 +1,6 @@
+name,score
+stanley,-31
+yu,-22
+yusuf,-12
+shelby,-12
+christina,-10

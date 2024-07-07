@@ -1,0 +1,5 @@
+name,score
+stanley,0
+yu,0
+yusuf,0
+shelby,0
